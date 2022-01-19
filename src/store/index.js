@@ -19,7 +19,7 @@ export default new Vuex.Store({
   },
   actions: {
     getData({ commit, state }) {
-      axios.get('/dummy.json').then(res => {
+      axios.get('dummy.json').then(res => {
         commit('SET_DATA', res.data);
       }).catch(err => {
         console.log(err)
