@@ -33,6 +33,7 @@
             margin: 15px 0px 0px 0px;
         }
     }
+    /* CSS FOR NEDEN STJÅLET FRA CODEPEN */
     .filterUnit {
         --background: #ffffff;
         --text: #414856;

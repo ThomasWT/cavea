@@ -54,7 +54,7 @@
   }
   $padding: 25px;
   html {
-    background: url(/img/ffflux.67c4ed26.svg) 100% 100% no-repeat;
+    background: url('./assets/ffflux.svg') 100% 100% no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
